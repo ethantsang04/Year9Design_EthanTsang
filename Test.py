@@ -1,0 +1,5 @@
+num = input("please choose a number: ")
+num2 = input("please choose another number: ")
+x = int(num)
+y = int(num2)
+print(x*y)
